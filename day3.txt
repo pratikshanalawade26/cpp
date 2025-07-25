@@ -1,4 +1,4 @@
-Day 3:  Pratiksha Nalawade
+Day 3:  Pratiksha      Nalawade
 
 ﻿#include<iostream>
 using namespace std;
